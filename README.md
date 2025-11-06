@@ -22,7 +22,7 @@ Welcome to my GitHub! I'm a **Senior Java Developer** with 14 years of experienc
 ## Get in Touch
 - 📊 [LinkedIn](https://linkedin.com/in/mohsenarab)
 - 🏆 [Codeforces](https://codeforces.com/profile/mohsenarab)
-- 📧 Email: mohsenarab@example.com
+- 📧 Email: e.mohsenarab@gmail.com
 
 Outside of coding, I enjoy playing guitar, practicing Wing Chun, and spending time with my family. Let’s connect to solve problems or build something awesome together!
 
